@@ -4,7 +4,7 @@ The diameter of an asteroid is one the most important physical parameter of an a
 it is used to detect if an asteroid is potentially hazardous or not if it is found to be a Near Earth Object. 
 We aim to train a ML/DL model on JPL asteroid database to predict asteroid diameter.
 
-APPROACH
+# APPROACH
 I have done some data visualization using matplotlib and seaborn and some data analysis using numpy.
 For data cleaning
 based on the correlation of different features with diameter and its variation , and which have more 90% missing values
