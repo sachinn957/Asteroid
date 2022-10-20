@@ -12,5 +12,4 @@ I have dropped some features namely,
 ['H','albedo','name','rot_per','spec_B','BV','spec_T','UB','G','extent','GM','IR','neo','pha']
 and used one hot encodding for condition code and class.
 then split the data into train and test data.
-I have applied various models and based on the score , based on the score i have predicted the missing diameter values 
-with basic MLP model.
+I have applied various models and based on the score , based on the score i have selected the basic NN model.
