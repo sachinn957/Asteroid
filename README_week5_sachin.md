@@ -6,7 +6,7 @@ We aim to train a ML/DL model on JPL asteroid database to predict asteroid diame
 
 # APPROACH
 I have done some data visualization using matplotlib and seaborn and some data analysis using numpy.
-For data cleaning
+For data cleaning i have used pandas library in python,
 based on the correlation of different features with diameter and its variation , and which have more 90% missing values
 I have dropped some features namely,
 ['H','albedo','name','rot_per','spec_B','BV','spec_T','UB','G','extent','GM','IR','neo','pha']
