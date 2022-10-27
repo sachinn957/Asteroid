@@ -5,6 +5,9 @@ it is used to detect if an asteroid is potentially hazardous or not if it is fou
 We aim to train a ML/DL model on JPL asteroid database to predict asteroid diameter.
 
 # APPROACH
+In week 1, I have got the insights of the data by visualization.
+In week 2 and week 3 , I have the done the cleaning of the data and applied some models on it.
+In week 4 , I have optimized the models and the used the final model to predict the missing values.
 I have done some data visualization using matplotlib and seaborn and some data analysis using numpy.
 For data cleaning i have used pandas library in python,
 based on the correlation of different features with diameter and its variation , and which have more 90% missing values
